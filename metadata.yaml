@@ -1,0 +1,25 @@
+_repo: The-Chickamauga-dam-and-its-environs_71437
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walker, Robert Sparks
+    gutenberg_agent_id: '56233'
+    url: http://www.gutenberg.org/2009/agents/56233
+description: ''
+gutenberg_issued: '2023-08-18'
+identifiers:
+  gutenberg: '71437'
+language: en
+pgterms:marc905: 20211119172712walker
+pgterms:marc906: '1949'
+pgterms:marc907: US
+production_note: Bob Taylor, Lisa Corcoran and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aChattanooga, TN :$bAndrews Printing Company, $c1949.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Chickamauga dam and its environs
+url: http://www.gutenberg.org/ebooks/71437
